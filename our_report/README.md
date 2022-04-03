@@ -1,7 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
+### First and Last Name: Faidra Dmianou, Marina Kyriakou, Manos Striligkas
+### University Registration Number: DPSD19028 DPSD18059 DPSD18108 
+
 ### GitHub Personal Profile: xxx
 
 # Introduction
