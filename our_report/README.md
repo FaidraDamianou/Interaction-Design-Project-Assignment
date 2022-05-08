@@ -76,7 +76,7 @@ Step 4)
 
 <ul>
   Step 5)
-  <img src="our_report/ui.png"> 
+  <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/ui.png"> 
 </ul>
 
 
