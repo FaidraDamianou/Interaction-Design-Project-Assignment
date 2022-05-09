@@ -67,6 +67,9 @@ Step 3)
 <li>Content : παιχνίδι για δύο , data types: constraint X kai O , Constraint Παίχτης 1 kai Παίχτης 2 .  Έξοδος Παίξτε ξανά after πλήρες γέμισμα </li>
 
 <li>Users: Εργασίες: Ο καθε χρηστης βαζει εναλλαξ το Χ/Ο σε μια απο τις 9 θέσεις του πίνακα. Σκοπός είναι να δημιουργηθει μια διαδοχική τριάδα απο Χ/Ο.</li>
+  <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/Untitled.png"> 
+
+</ul>
 </ul>
 
 <ul>
