@@ -98,6 +98,7 @@ Step 4)
 </ul>
 <ul>
   Step 7)
+  Link to prototye video https://youtu.be/yDZK1cuGsXQ
 </ul>
 
 
