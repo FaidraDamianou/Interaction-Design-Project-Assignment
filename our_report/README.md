@@ -93,13 +93,8 @@ Step 4)
   <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/hard%20mode.png">
   
   <li>Storyboards</li>
-  <iframe
-    src="https://drive.google.com/file/d/10DjLaACscuxIH3BoIhr8mz9B7whPYGTA/view?usp=drivesdk"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></iframe>
+  <embed src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/CodeBenders_Storyboards.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
+<a href="study/sample.pdf">download</a>
   
 </ul>
 <ul>
