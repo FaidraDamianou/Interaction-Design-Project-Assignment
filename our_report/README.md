@@ -93,7 +93,7 @@ Step 4)
   <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/hard%20mode.png">
   
   <li>Storyboards</li>
-<img src="our_report/SmartSelect_20220609-215704_Drive.jpg">
+<img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/SmartSelect_20220609-215704_Drive.jpg">
   
 </ul>
 <ul>
