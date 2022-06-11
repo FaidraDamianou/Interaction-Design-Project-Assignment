@@ -88,7 +88,7 @@ Step 4)
 <ul>
   Step 6)
   <li>Η τελική μας έμπνευση για το project https://www.youtube.com/watch?v=vXuttFxP_to</li>
-  <li>Σενάρια χρήσης/ Περιπτώσεις παιξίματος creadit: educ8s.tv on yt</li>
+  <li>Σενάρια χρήσης/ Περιπτώσεις παιξίματος credit: educ8s.tv on yt</li>
   <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/easy%20mode.png">
   <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/hard%20mode.png">
   
