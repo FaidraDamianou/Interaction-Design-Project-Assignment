@@ -106,3 +106,8 @@ Step 4)
 
 
 # Sources
+<br>screen : https://www.hellasdigital.gr/electronics/displays/2.4-inch-tft-touch-lcd-screen-display-module-for-arduino-uno-r3/
+<br>screen guide : https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/arduino-ide-programmieren-fuer-einsteiger-teil-1
+<br>https://create.arduino.cc/projecthub/electropeak/arduino-2-4-touch-screen-lcd-shield-tutorial-fe6f05
+<br>tictactoe help : https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/tic-tac-toe-mit-2-4-touchdisplay
+<br>https://github.com/M3taKn1ght/Blog-Repo/tree/master/TicTacToe
